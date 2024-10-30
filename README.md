@@ -1,2 +1,2 @@
-# Data_science_projects
-A bunch of projects I made and worked on to understand data science
+# Data Science Projects Repository
+Welcome to my Data Science Projects repository! This space is dedicated to showcasing my work across various data science domains, including machine learning, computer vision, natural language processing, and more. Each project reflects my approach to tackling real-world problems, utilizing tools and techniques in data science and AI.
